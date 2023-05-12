@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurwinder Singh</h1>
 <h3 align="center">A passionate Full-Stack blockchain developer from India</h3>
 
-img align="right" alt="coding"width="400" src="https://standsome.com/">
+img align="right" alt="coding"width="400" src="https://media2.giphy.com/media/SXOgX1ljLUyv9UDXBq/giphy.gif?cid=ecf05e47fr0sfmfu9s1qt2vnhjswd44kqnx6aw5e2k7trz7h&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurwindersinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="gurwindersinghhh" /> </p>
 
