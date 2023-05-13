@@ -1,3 +1,20 @@
+## About Me
+
+
+- 🌱 I aspire to build secure blockchain systems for real-world applications, continually learning and collaborating to make a positive impact.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🧰 Languages and Tools
 
 
