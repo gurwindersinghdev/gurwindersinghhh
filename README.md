@@ -1,7 +1,7 @@
 ## About Me
 
 
-- 🌱 I aspire to build secure blockchain systems for real-world applications, continually learning and collaborating to make a positive impact.
+- 🌱 Aspiring to develop secure smart contracts and blockchain systems for real-world applications through continuous learning and collaboration.
 
 
 
