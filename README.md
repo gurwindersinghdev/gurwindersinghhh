@@ -1,7 +1,7 @@
 ## About Me
 
 
-- 🌱 Aspiring to develop secure smart contracts and blockchain systems for real-world applications through continuous learning and collaboration.
+- 🌱  continuous learning and collaboration.
 
 
 
