@@ -1,7 +1,7 @@
 ## About Me
 
 
-- 🌱  continuous learning and collaboration.
+- 🌱  Full Stack Blockchain Developer
 
 
 
