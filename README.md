@@ -5,7 +5,7 @@
 
 
 
-### 🧰 Languages and Tools
+### 🧰 I have been Working with these Technologies
 Solidity
 
 Hardhat
@@ -28,7 +28,9 @@ HTML
 
                           ------CHAINS-------
                           
-                          EVM , POLYGON , Avax
+                          EVM , POLYGON 
+                          
+      ERC-20, ERC-721, ERC1155, ERC-6551, ERC-4337                   
 
 
 
