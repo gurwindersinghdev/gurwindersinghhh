@@ -7,14 +7,23 @@
 
 ### 🧰 Languages and Tools
 Solidity
+
 Hardhat
+
 Moralis
+
 Alchemy 
+
 Node.js
+
 Ether-js
+
 Next-js
+
 React-js
+
 CSS
+
 HTML
 
                           ------CHAINS-------
