@@ -1,7 +1,7 @@
 ## About Me
 
 
-- 🌱  Full Stack Blockchain Developer
+- 🌱   Blockchain Developer
 
 
 
