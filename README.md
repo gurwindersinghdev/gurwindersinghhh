@@ -5,12 +5,12 @@
 
 
 
-### 🧰 I have been Working with these Technologies
+### 🧰 I have been Worked with these Technologies
 Solidity
 
 Hardhat
 
-Moralis
+Moralis Web-3
 
 Alchemy 
 
