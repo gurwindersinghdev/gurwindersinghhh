@@ -28,9 +28,9 @@ HTML
 
                           ------CHAINS-------
                           
-                          EVM , POLYGON 
+                          EVM , POLYGON , ZKsync Era
                           
-      ERC-20, ERC-721, ERC1155, ERC-6551, ERC-4337                   
+      ERC-20, ERC-721, ERC1155                   
 
 
 
