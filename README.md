@@ -28,7 +28,7 @@ HTML
 
                           ------CHAINS-------
                           
-                          EVM , POLYGON , ZKsync Era
+                          EVM , POLYGON , ChainkLink, ZKsync Era
                           
       ERC-20, ERC-721, ERC1155                   
 
