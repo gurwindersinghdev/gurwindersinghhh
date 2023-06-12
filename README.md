@@ -5,7 +5,7 @@
 
 
 
-### 🧰 I have been Worked with these Technologies and i Have deployed Smart contracts on these Chains.
+### 🧰 I have been Worked with these Technologies and i Have deployed Smart contracts over these Chains
              Chainlink, Polygon 
 Solidity
 
