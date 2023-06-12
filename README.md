@@ -5,7 +5,8 @@
 
 
 
-### 🧰 I have been Worked with these Technologies
+### 🧰 I have been Worked with these Technologies and i Have deployed Smart contracts on these Chains.
+             Chainlink, Polygon 
 Solidity
 
 Hardhat , Foundry
@@ -26,9 +27,7 @@ CSS
 
 HTML
 
-                          ------CHAINS-------
-                          
-                          EVM , POLYGON , ChainkLink, ZKsync
+                        
                           
       ERC-20, ERC-721, ERC1155                   
 
