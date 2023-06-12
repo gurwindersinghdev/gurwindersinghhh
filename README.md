@@ -8,7 +8,7 @@
 ### 🧰 I have been Worked with these Technologies
 Solidity
 
-Hardhat
+Hardhat , Foundry
 
 Moralis Web-3
 
