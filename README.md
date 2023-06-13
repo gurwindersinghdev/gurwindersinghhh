@@ -5,7 +5,7 @@
 
 Backend - Solidity , Harhdat , Foundry , Moralis-web3, Alchemy , Node.js
 
-Chains - Polygon, Chainlink, Zksync
+Chains - Pzkvm, Chainlink
 
 Frontend - React-js , Next-js 
 
