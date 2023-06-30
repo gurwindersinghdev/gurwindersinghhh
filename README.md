@@ -1,9 +1,9 @@
 ## About Me
 
 
-- 🌱   Blockchain Developer
+- 🌱  Full Stack Blockchain Developer
 
-Backend - Open-Zeppelin, Solidity , Harhdat , Foundry , Moralis-web3, Alchemy , Node.js , Third Web
+Backend - Open-Zeppelin, Solidity , Harhdat , Foundry , Moralis, Alchemy , Node.js , Third Web
 
 
 Frontend - React-js , Next-js ,TypeScript
